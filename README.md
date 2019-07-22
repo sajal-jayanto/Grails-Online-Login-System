@@ -1,7 +1,7 @@
 # Grails-Online-Login-System
  ### Login Credential
-     * Email : admin@localhost.com
-     * password : admin
+    Email : admin@localhost.com
+    password : admin
      
      
 ## The Project Name Is Login System
