@@ -4,7 +4,7 @@
     password : admin
      
      
-## The Project Name Is Login System
+## The Project Name Is Grails Online Login System
   
 ## The Version Of Technology That Are Used
   
